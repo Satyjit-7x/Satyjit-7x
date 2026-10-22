@@ -79,6 +79,7 @@ A startup investment platform designed to support fundraising, equity management
 - Explored secondary-marketplace functionality for share trading and portfolio management.
 
 🔗 **[View Repository](https://github.com/Satyjit-7x/StartEquity-DotnetProject)**
+🔗 **[View Video Demonstration](https://youtu.be/_JXaH2dWNFo?si=qvDpZPXAVbnIFWbx)**
 
 ### 3. Employee & Team Project Management API
 
